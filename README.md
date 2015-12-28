@@ -11,5 +11,5 @@ What this app does:
 - Update total amount 
 - Hide tip information area
 
-![My image](joluq.github.com/tip-calc-app/demo.gif)
+
 
